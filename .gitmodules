@@ -1,3 +1,7 @@
 [submodule "diveintocode-ml"]
 	path = diveintocode-ml
 	url = git@github.com:RyotaShiga/diveintocode-ml.git
+[submodule "repo_for_sub"]
+	path = repo_for_sub
+	url = git@github.com:RyotaShiga/repo_for_sub.git
+	branch = master
